@@ -27,3 +27,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## Related Projects
+https://github.com/qonico/qonico-pi
+https://github.com/qonico/cosmos-iot
+https://github.com/qonico/cosmos-client
+
